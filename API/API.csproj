@@ -5,6 +5,7 @@
   <ItemGroup>
     
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.9" />
+    
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
